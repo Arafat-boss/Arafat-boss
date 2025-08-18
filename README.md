@@ -29,29 +29,27 @@
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/Arraf.kobi" target="_blank" style="text-decoration:none;">
-    <span style="background: #1877F2; color:white; padding:3px 12px; border-radius:6px; font-weight:bold; display:flex; align-items:center; gap:6px;">
-      <img />
+    <span style="background:#1877F2; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
       Facebook
     </span>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/md-arafat-sarker/" target="_blank" style="text-decoration:none;">
-    <span style="background:#0A66C2; color:white; padding:3px 12px; border-radius:6px; font-weight:bold; display:flex; align-items:center; gap:6px;">
-      <img />
+    <span style="background:#0A66C2; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
       LinkedIn
     </span>
   </a>
 
   <!-- Portfolio -->
   <a href="https://portfolio-arafat.web.app/" target="_blank" style="text-decoration:none;">
-    <span style="background:#FF6F61; color:white; padding:3px 12px; border-radius:6px; font-weight:bold; display:flex; align-items:center; gap:6px;">
-      <img />
+    <span style="background:#FF6F61; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
       Portfolio
     </span>
   </a>
 
 </p>
+
 
 ## ⚡️ A Few Quick Facts
 
