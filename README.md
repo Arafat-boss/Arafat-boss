@@ -12,10 +12,11 @@
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
   <h1 style="margin:0; font-family:'Monoton';">Hi, I'm Arafat! 👋</h1>
  <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1200&center=true&vCenter=true&width=400&color=000000&lines=MERN+Stack+%7C+Front-end+Developer;Clean+%26+User-centric+UI;Always+learning+%F0%9F%93%9A"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=400&color=FFFFFF&lines=MERN+Stack+%7C+Front-end+Developer;Clean+%26+User-centric+UI;Always+learning+%F0%9F%93%9A"
   alt="Typing SVG"
   style="border-radius:10px;"
 />
+
 
 </div>
 <br>
