@@ -25,6 +25,33 @@
 <p align="center">
  I am a passionate front-end developer who crafts user-centric, responsive, and visually appealing web applications. Proficient in modern JavaScript frameworks like React, along with Tailwind CSS and DaisyUI, I build clean, intuitive interfaces that enhance user experience. I leverage React hooks for efficient state management and Firebase for seamless authentication. With a keen eye for design and a focus on maintainable, high-quality code, I bring ideas to life with dynamic and engaging web solutions.
 </p>
+<p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/Arraf.kobi" target="_blank" style="text-decoration:none;">
+    <span style="background: #1877F2; color:white; padding:3px 12px; border-radius:6px; font-weight:bold; display:flex; align-items:center; gap:6px;">
+      <img />
+      Facebook
+    </span>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/md-arafat-sarker/" target="_blank" style="text-decoration:none;">
+    <span style="background:#0A66C2; color:white; padding:3px 12px; border-radius:6px; font-weight:bold; display:flex; align-items:center; gap:6px;">
+      <img />
+      LinkedIn
+    </span>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://portfolio-arafat.web.app/" target="_blank" style="text-decoration:none;">
+    <span style="background:#FF6F61; color:white; padding:3px 12px; border-radius:6px; font-weight:bold; display:flex; align-items:center; gap:6px;">
+      <img />
+      Portfolio
+    </span>
+  </a>
+
+</p>
 
 ## ⚡️ A Few Quick Facts
 
