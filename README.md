@@ -59,11 +59,33 @@
 
 <!-- GitHub Stats & Streak -->
 <div align="center">
-<h2 align="center">My github stats</h2>
-  <img src="https://streak-stats.demolab.com?user=Arafat-boss&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=220" height="220" style="margin:10px; border-radius:6px; box-shadow:0 8px 20px rgba(0,0,0,0.3); border:1px solid #8A2BE2;" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafat-boss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" style="margin:10px; border-radius:6px; box-shadow:0 8px 20px rgba(0,0,0,0.3)" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arafat-boss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" style="margin:10px; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.3);" alt="Top Languages"/>
+  <h2>My GitHub Stats</h2>
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Arafat-boss&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=220" 
+    height="220" 
+    style="margin:10px; border-radius:6px; box-shadow:0 8px 20px rgba(0,0,0,0.3); border:1px solid #8A2BE2;" 
+    alt="GitHub Streak"
+  />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Arafat-boss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+    height="220" 
+    style="margin:10px; border-radius:6px; box-shadow:0 8px 20px rgba(0,0,0,0.3);" 
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Arafat-boss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
+    height="220" 
+    style="margin:10px; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.3);" 
+    alt="Top Languages"
+  />
 </div>
+
 
 
 <!-- Connect / Social Media -->
