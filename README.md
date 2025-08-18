@@ -102,28 +102,3 @@
 </div>
 
 
-<!-- Connect / Social Media -->
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/Arraf.kobi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&color=ffffff" height="48" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/md-arafat-sarker/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&color=ffffff" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/01703512784" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp&color=ffffff" height="48" alt="WhatsApp"/>
-  </a>
-</p>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=160&section=footer&curve=1&wave=1&opacity=70&style=shadow" alt="wave footer"/>
-</p>
