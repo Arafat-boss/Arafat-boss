@@ -25,47 +25,30 @@
 <p align="center">
  I am a passionate front-end developer who crafts user-centric, responsive, and visually appealing web applications. Proficient in modern JavaScript frameworks like React, along with Tailwind CSS and DaisyUI, I build clean, intuitive interfaces that enhance user experience. I leverage React hooks for efficient state management and Firebase for seamless authentication. With a keen eye for design and a focus on maintainable, high-quality code, I bring ideas to life with dynamic and engaging web solutions.
 </p>
-<style>
-  .social-links {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    flex-wrap: wrap;
-  }
-  .social-links a {
-    text-decoration: none;
-  }
-  .social-btn {
-    color: white;
-    padding: 6px 14px;
-    border-radius: 6px;
-    font-weight: bold;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-  }
-  .facebook { background: #1877F2; }
-  .linkedin { background: #0A66C2; }
-  .portfolio { background: #FF6F61; }
-</style>
+<p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 
-<h2 align="center">🌐 Connect With Me</h2>
-<p class="social-links">
-
-  <a href="https://www.facebook.com/Arraf.kobi" target="_blank">
-    <span class="social-btn facebook">Facebook</span>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/Arraf.kobi" target="_blank" style="text-decoration:none;">
+    <span style="background:#1877F2; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
+      Facebook
+    </span>
   </a>
 
-  <a href="https://www.linkedin.com/in/md-arafat-sarker/" target="_blank">
-    <span class="social-btn linkedin">LinkedIn</span>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/md-arafat-sarker/" target="_blank" style="text-decoration:none;">
+    <span style="background:#0A66C2; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
+      LinkedIn
+    </span>
   </a>
 
-  <a href="https://portfolio-arafat.web.app/" target="_blank">
-    <span class="social-btn portfolio">Portfolio</span>
+  <!-- Portfolio -->
+  <a href="https://portfolio-arafat.web.app/" target="_blank" style="text-decoration:none;">
+    <span style="background:#FF6F61; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
+      Portfolio
+    </span>
   </a>
 
 </p>
-
 
 
 ## ⚡️ A Few Quick Facts
