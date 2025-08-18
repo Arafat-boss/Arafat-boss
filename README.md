@@ -11,22 +11,23 @@
 <!-- Name + Typing Animation -->
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
   <h1 style="margin:0; font-family:'Monoton';">Hi, I'm Arafat! 👋</h1>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=28&pause=1200&center=true&vCenter=true&width=400&color=000000&lines=MERN+Stack+%28MongoDB+%29;Express+%7C+React+%7C+Node Js;Front-end+Developer;Clean+%26+User-centric+UI;Always+learning+%F0%9F%93%9A"
-    alt="Typing SVG"
-    style="border-radius:10px;"
-  />
+ <img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1200&center=true&vCenter=true&width=400&color=000000&lines=MERN+Stack+%7C+Front-end+Developer;Clean+%26+User-centric+UI;Always+learning+%F0%9F%93%9A"
+  alt="Typing SVG"
+  style="border-radius:10px;"
+/>
+
 </div>
 <br>
 <!-- About Me -->
 <h3 align="center" style="">About Me</h3>
 <p align="center">
- I am a passionate MERN stack developer who builds user-centric, responsive, and visually appealing web applications. Proficient in MongoDB, Express.js, React, and Node.js, I create seamless, full-stack solutions that prioritize performance and user experience. I leverage modern JavaScript frameworks like React, paired with Tailwind CSS and DaisyUI, to craft clean, intuitive interfaces. For backend development, I utilize Node.js and Express.js to build robust APIs and integrate MongoDB for efficient data management. I frequently use Firebase for authentication and React hooks for state management to ensure scalable and maintainable code. With a strong focus on design, functionality, and clean code practices, I bring ideas to life by delivering dynamic, end-to-end web solutions.
+ I am a passionate front-end developer who crafts user-centric, responsive, and visually appealing web applications. Proficient in modern JavaScript frameworks like React, along with Tailwind CSS and DaisyUI, I build clean, intuitive interfaces that enhance user experience. I leverage React hooks for efficient state management and Firebase for seamless authentication. With a keen eye for design and a focus on maintainable, high-quality code, I bring ideas to life with dynamic and engaging web solutions.
 </p>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on **full-stack MERN projects** like [collaborative-study](https://github.com/Arafat-boss/collaborative-study-website)
+- 🔭 I’m currently working on **MERN projects** like [collaborative-study](https://github.com/Arafat-boss/collaborative-study-website)
 - 🧐 Exploring **serverless architectures**, **distributed systems**, and **modern React patterns**
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/Arafat-boss/collaborative-study-website)
 
