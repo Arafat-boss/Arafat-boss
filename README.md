@@ -70,22 +70,11 @@
   />
 
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Arafat-boss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-    height="220" 
-    style="margin:10px; border-radius:6px; box-shadow:0 8px 20px rgba(0,0,0,0.3);" 
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Arafat-boss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-    height="220" 
-    style="margin:10px; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.3);" 
-    alt="Top Languages"
-  />
+ <div align="center" style="display: flex; align-items: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arafat-boss&show_icons=true&theme=midnight-purple&border_radius=12" width="430" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-boss&layout=compact&theme=midnight-purple" width="430" height="180" />
+  </div>
 </div>
-
 
 
 <!-- Connect / Social Media -->
