@@ -4,8 +4,9 @@
 
 <!-- Top Banner / Avatar -->
 <div align="center">
-  <img height="300" width="full" src="https://i.ibb.co.com/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" />
+  <img src="https://i.ibb.co.com/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" height="300" alt="Arafat Avatar Animation" />
 </div>
+
 <br/>
 
 <!-- Name + Typing Animation -->
