@@ -4,10 +4,7 @@
 
 <!-- Top Banner / Avatar -->
 <div align="center">
-<!--   <img height="200" src="https://i.ibb.co.com/qR1cVTg/Arafat5.png" alt="Arafat Avatar" /> -->
-     <div align="center">
-  <video src="https://streamable.com/ipvr9p" height="200" autoplay loop muted playsinline></video>
-</div>
+  <img height="300" width="full" src="https://i.ibb.co.com/n84Fm5fX/Adobe-Express-Olivia-Wilson-2.gif" />
 </div>
 <br/>
 
