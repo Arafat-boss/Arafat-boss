@@ -4,7 +4,10 @@
 
 <!-- Top Banner / Avatar -->
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/qR1cVTg/Arafat5.png" alt="Arafat Avatar" />
+<!--   <img height="200" src="https://i.ibb.co.com/qR1cVTg/Arafat5.png" alt="Arafat Avatar" /> -->
+     <div align="center">
+  <video src="https://streamable.com/ipvr9p" height="200" autoplay loop muted playsinline></video>
+</div>
 </div>
 <br/>
 
