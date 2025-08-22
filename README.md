@@ -4,7 +4,7 @@
 
 <!-- Top Banner / Avatar -->
 <div align="center">
-  <img height="300" width="full" src="https://i.ibb.co.com/n84Fm5fX/Adobe-Express-Olivia-Wilson-2.gif" />
+  <img height="300" width="full" src="https://i.ibb.co.com/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" />
 </div>
 <br/>
 
