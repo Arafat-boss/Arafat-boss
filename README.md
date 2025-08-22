@@ -4,7 +4,7 @@
 
 <!-- Top Banner / Avatar -->
 <div align="center">
-  <img src="https://i.ibb.co/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" height="300" alt="Arafat Avatar Animation" />
+ <img src="https://i.ibb.co/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" height="300" alt="Arafat" />
 </div>
 
 
