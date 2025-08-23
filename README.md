@@ -5,10 +5,11 @@
 <!-- Top Banner / Avatar -->
 <div align="center">
 <!--  <img src="https://i.ibb.co.com/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" height="300" /> -->
+<!-- New GIF -->
+<div align="center">
+  <img src="https://i.ibb.co/VcQkKyLc/Adobe-Express-Olivia-Wilson-1.gif" alt="Arafat GIF" height="250" />
 </div>
-<div align="center" style="margin:20px 0;">
-  <img src="https://i.ibb.co.com/VcQkKyLc/Adobe-Express-Olivia-Wilson-1.gif" alt="Adobe-Express-Olivia-Wilson-1" height="250" style="border-radius:10px; box-shadow:0 8px 20px rgba(0,0,0,0.3);" />
-</div>
+
 
 
 <br/>
