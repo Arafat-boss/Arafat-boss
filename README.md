@@ -56,7 +56,7 @@
 
 </p>
 
-
+<div align="left">
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on **MERN projects** like [collaborative-study](https://github.com/Arafat-boss/collaborative-study-website)
@@ -66,6 +66,7 @@
 - 💬 Ping me about **React**, **Tailwind CSS**, **MERN stack**, **security**, and **cloud deployments**
 - 📙 Check out my [resume](https://drive.google.com/file/d/1BITABjx0J-JEe07riVAUypMdyclb4Owl/view?usp=drivesdk)
 - 🎉 Fun Fact: I love experimenting with animations & modern UI/UX patterns
+</div>
 <br>
 <!-- Skills / Technologies -->
 <h2 align="center">🛠️ Technologies I Work With</h2>
