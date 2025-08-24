@@ -1,6 +1,5 @@
-<!-- =========================
+
      GitHub README Profile
-<! ==========================
 
 <!-- Top Banner / Avatar -->
 <div align="center">
