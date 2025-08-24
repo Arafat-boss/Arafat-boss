@@ -7,8 +7,9 @@
 <!--  <img src="https://i.ibb.co.com/zWyRRrzZ/Adobe-Express-Olivia-Wilson-1.gif" height="300" /> -->
 <!-- New GIF -->
 <div align="center">
-  <img src="https://i.ibb.co/VcQkKyLc/Adobe-Express-Olivia-Wilson-1.gif" alt="Arafat GIF" height="250" />
+  <img src="https://i.ibb.co.com/rRJSBzxt/Adobe-Express-Olivia-Wilson-2.gif" />
 </div>
+
 
 
 
