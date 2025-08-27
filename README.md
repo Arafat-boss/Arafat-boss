@@ -29,7 +29,7 @@
 <!-- About Me -->
 <h3 align="center" style="">About Me</h3>
 <p align="center">
- I am a passionate front-end developer who crafts user-centric, responsive, and visually appealing web applications. Proficient in modern JavaScript frameworks like React, along with Tailwind CSS and DaisyUI, I build clean, intuitive interfaces that enhance user experience. I leverage React hooks for efficient state management and Firebase for seamless authentication. With a keen eye for design and a focus on maintainable, high-quality code, I bring ideas to life with dynamic and engaging web solutions.
+I am a passionate MERN stack developer skilled in MongoDB, Express.js, React, and Node.js, dedicated to building user-centric, responsive, and visually appealing web applications. I excel in crafting clean and intuitive front-end interfaces using React, Tailwind CSS, and DaisyUI to enhance user experience. Leveraging React hooks, I ensure efficient state management while integrating Firebase for seamless authentication. On the backend, I utilize Node.js and Express.js to develop robust and scalable APIs, paired with MongoDB for effective data management. With a keen eye for design and a commitment to maintainable, high-quality code, I bring innovative ideas to life through dynamic, full-stack web solutions.
 </p>
 <p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 
