@@ -56,17 +56,79 @@ I am a passionate MERN stack developer skilled in MongoDB, Express.js, React, an
 
 </p>
 
-<div align="left">
-## ⚡️ A Few Quick Facts
+<!-- ====================================================== -->
+<!--                     QUICK FACTS                        -->
+<!-- ====================================================== -->
 
-- 🔭 I’m currently working on **MERN projects** like [collaborative-study](https://github.com/Arafat-boss/collaborative-study-website)
-- 🧐 Exploring **serverless architectures**, **distributed systems**, and **modern React patterns**
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/Arafat-boss/collaborative-study-website)
+## Quick Snapshot
 
-- 💬 Ping me about **React**, **Tailwind CSS**, **MERN stack**, **security**, and **cloud deployments**
-- 📙 Check out my [resume](https://drive.google.com/file/d/1BITABjx0J-JEe07riVAUypMdyclb4Owl/view?usp=drivesdk)
-- 🎉 Fun Fact: I love experimenting with animations & modern UI/UX patterns
-</div>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Current Focus
+Building **production-ready MERN applications** with clean architecture and modern UI.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Currently Exploring
+**System Design**, Serverless Architecture, Distributed Systems & Advanced React Patterns.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Ask Me About
+**React • Tailwind CSS • MERN Stack • Web Security • REST APIs**
+
+</td>
+
+<td width="50%" valign="top">
+
+### My Work
+Explore my projects on **[GitHub](https://github.com/Arafat-boss)** and **[Portfolio](https://portfolio-arafat.web.app/)**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Featured Project
+Currently working on **[Collaborative Study](https://github.com/Arafat-boss/collaborative-study-website)**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Resume
+View my latest **[Developer Resume](https://drive.google.com/file/d/1BITABjx0J-JEe07riVAUypMdyclb4Owl/view?usp=drivesdk)**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### Fun Fact
+I enjoy experimenting with **animations, interactions & modern UI/UX patterns**.
+
+</td>
+
+</tr>
+
+</table>
 <br>
 <!-- Skills / Technologies -->
 <h2 align="center">🛠️ Technologies I Work With</h2>
