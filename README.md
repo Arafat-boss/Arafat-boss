@@ -93,7 +93,7 @@ Building **production-ready MERN applications** with clean architecture and mode
 <td width="50%" valign="top">
 
 ### My Work
-Explore my projects on **[GitHub](https://github.com/Arafat-boss)** and **[Portfolio](https://portfolio-arafat.web.app/)**.
+Explore my projects on **[GitHub](https://github.com/Arafat-boss)** and **[Portfolio](https://arafat-portfolio20.vercel.app/)**.
 
 </td>
 
@@ -104,7 +104,7 @@ Explore my projects on **[GitHub](https://github.com/Arafat-boss)** and **[Portf
 <td width="50%" valign="top">
 
 ### Featured Project
-Currently working on **[Collaborative Study](https://github.com/Arafat-boss/collaborative-study-website)**.
+Currently working on **[Collaborative Study](https://collaborative-study-website-9ehf.vercel.app/)**.
 
 </td>
 
