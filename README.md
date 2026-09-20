@@ -48,7 +48,7 @@ I am a passionate MERN stack developer skilled in MongoDB, Express.js, React, an
   </a>
 
   <!-- Portfolio -->
-  <a href="https://portfolio-arafat.web.app/" target="_blank" style="text-decoration:none;">
+  <a href="https://arafat-portfolio20.vercel.app/" target="_blank" style="text-decoration:none;">
     <span style="background:#FF6F61; color:white; padding:6px 14px; border-radius:6px; font-weight:bold; display:inline-flex; align-items:center; gap:6px;">
       Portfolio
     </span>
