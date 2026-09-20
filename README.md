@@ -16,7 +16,7 @@
 
 <!-- Name + Typing Animation -->
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <h1 style="margin:0; font-family:'Monoton';">Hi, I'm Arafat! 👋</h1>
+  <h1 style="margin:0; font-family:'Monoton';">Hi, I'm Arafat!</h1>
  <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&center=true&vCenter=true&width=400&color=FFFFFF&lines=MERN+Stack+%7C+Front-end+Developer;Clean+%26+User-centric+UI;Always+learning+%F0%9F%93%9A"
   alt="Typing SVG"
@@ -131,23 +131,22 @@ I enjoy experimenting with **animations, interactions & modern UI/UX patterns**.
 </table>
 <br>
 <!-- Skills / Technologies -->
-<h2 align="center">🛠️ Technologies I Work With</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="48" alt="shadcn/ui"/>
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
-  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" height="48" alt="Mongoose"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="48" alt="Zod"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="48" alt="JWT"/>
-</p>
+<!-- ====================================================== -->
+<!--                     TECHNOLOGIES                       -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+## Technologies I Work With
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,postgres,redux,firebase,git,github,vite,npm"
+  alt="Technology Stack"
+/>
+
+</div>
+
+
 <br>
 
 
@@ -164,10 +163,29 @@ I enjoy experimenting with **animations, interactions & modern UI/UX patterns**.
   />
 
   <!-- GitHub Stats -->
- <div align="center" style="display: flex; align-items: center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arafat-boss&show_icons=true&theme=midnight-purple&border_radius=12" width="430" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat-boss&layout=compact&theme=midnight-purple" width="430" height="180" />
-  </div>
+
+
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Arafat-boss/Arafat-boss/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Arafat-boss/Arafat-boss/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Arafat-boss/Arafat-boss/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
 </div>
 
 
